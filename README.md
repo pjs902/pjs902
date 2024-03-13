@@ -4,4 +4,4 @@ I'm an astrophysics student at Saint Mary's University. I mostly work on globula
 
 Contact:
 
-- Email: smith.peter.902[at]gmail.com
+- Email: peter.smith1[at]smu.ca
