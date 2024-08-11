@@ -4,5 +4,5 @@ I'm an astrophysics student at Saint Mary's University. I mostly work on globula
 
 Contact:
 
-- Website: [pjs902.github.io](pjs902.github.io)
+- Website: [pjs902.github.io](https://pjs902.github.io)
 - Email: peter.smith1[at]smu.ca
