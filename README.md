@@ -1,6 +1,6 @@
 ### Hi, I’m Peter
 
-I'm a PhD student at the Max Planck Institute for Astronomy in Heidelberg. I work on the internal dynamics of massive star clusters. More generally, I'm interested in the dynamics, substructure, and assembly of the Milky Way galaxy.
+I'm a PhD student at the Max Planck Institute for Astronomy in Heidelberg. I work mostly on the internal dynamics of massive star clusters. More generally, I'm interested in the dynamics, substructure, and assembly of the Milky Way galaxy.
 
 Contact:
 
